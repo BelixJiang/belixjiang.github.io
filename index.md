@@ -10,77 +10,35 @@ And~ More interesting things on different field ! It like DIY for my car , about
 So !This blog is used to record my learning journey. If you have relevant information, you can also let me know.
 
 - - -
-
-                     .smMNdy/`                                       `:sdNMmy-                      
-                    :mMMMMMMMNo.                                   `omMMMMMMMN/                     
-                    dMMMMMMMMMMNo`                               `+mMMMMMMMMMMm`                    
-                   :NMMMMMMMMMMMMd-                             -hMMMMMMMMMMMMM/                    
-                   +MMMMMMMMMMMMMMN+                           /mMMMMMMMMMMMMMMo                    
-                   +MMMMMMMMMMMMMMMMs`                        oNMMMMMMMMMMMMMMMo                    
-                   /MMMMMMMMMMMMMMMMMy`                     `sMMMMMMMMMMMMMMMMM+                    
-                   .NMMMMMMMMMMMMMMMMMy`                   `sMMMMMMMMMMMMMMMMMM:                    
-                    mMMMMMMMMMMMMMMMMMMs`                  oMMMMMMMMMMMMMMMMMMm`                    
-                    oMMMMMMMMMMMMMMMMMMM+                 /NMMMMMMMMMMMMMMMMMMs                     
-                    .mMMMMMMMMMMMMMMMMMMN:               -mMMMMMMMMMMMMMMMMMMN-                     
-                     sMMMMMMMMMMMMMMMMMMMm.             `dMMMMMMMMMMMMMMMMMMMy                      
-                     .mMMMMMMMMMMMMMMMMMMMs             +MMMMMMMMMMMMMMMMMMMN-                      
-                      +MMMMMMMMMMMMMMMMMMMN-           `NMMMMMMMMMMMMMMMMMMMo                       
-                      `yMMMMMMMMMMMMMMMMMMMy           oMMMMMMMMMMMMMMMMMMMh`                       
-                       `dMMMMMMMMMMMMMMMMMMM`         `mMMMMMMMMMMMMMMMMMMN.                        
-                        .NMMMMMMMMMMMMMMMMMM+         :MMMMMMMMMMMMMMMMMMN:                         
-                         :NMMMMMMMMMMMMMMMMMy         yMMMMMMMMMMMMMMMMMN/                          
-                          :NMMMMMMMMMMMMMMMMd`       `hMMMMMMMMMMMMMMMMN/                           
-                           -mMMMMMMMMMMMMMMMMmmmmNNmmmNMMMMMMMMMMMMMMMN:                            
-                            .hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd.                             
-                             `oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`                              
-                             `+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`                              
-                           `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo`                            
-                          -dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd:                           
-                         +NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo                          
-                        +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs                         
-                       :NMMMMNmhhhhdmNNMMMMMMMMMMMMMMMMMMMMMMNmdhhhhdNMMMMM/                        
-                      `dMMMMNyssssssssyhmMMMMMMMMMMMMMMMMMmdyssssssssymMMMMN.                       
-                      /MMMMMNsssssssssssshNMMMMMMMMMMMMMNhssssssssssssmMMMMMo                       
-                      yMMMMMMdssssssssssssyNMMMMMMMMMMMMyssssssssssssdMMMMMMh                       
-                      hMMMMMMMNhsssssssssssmMMMMMMMMMMMNssssssssssshmMMMMMMMh`                      
-                      yMMMMMMMMMNdhysssssydMMMMMMMMMMMMMdysssssyhdNMMMMMMMMMh                       
-                      /MMMMMMMMMMMMMNNNNNMMMMMMMMMMMMMMMMMNNNNNMMMMMMMMMMMMMo                       
-                      `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.                       
-                       /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                        
-                        +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs                         
-                         +NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                          
-                          :dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm:                           
-                           `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`                            
-                             `+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo`                              
-                               `:smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy:`                                
-                                  `-ohmMMMMMMMMMMMMMMMMMMMMMmho:`                                   
-                                      `.:+shhdmmmmmmmdhhs+:.`                                       
-          `-:/+oo+/:-`                      ````...````                                             
-      `:ohmNNMMMMMMNNmho:`                                                                          
-    .+dNMMMMMMMMMMMMMMMMNd+.                                                                        
-  `/mMMMMMMMMMMMMMMMMMMMMMMm/`                                                                      
- `sNMMMMMMMNdhsooshdNMMMMMMMNs`                                                                     
- yMMMMMMMNs-`      `-sNMMMMMMMy                                                                     
-/MMMMMMMd-            -dMMMMMMM+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-.`  
-hMMMMMMN-              -NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd: 
-NMMMMMMh`               hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm 
-mMMMMMMd`              `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh 
-sMMMMMMMo              oMMMMMMMmhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhmMMMMMMMMMMMMMMMMMMMMMMMMhhs/` 
-.NMMMMMMMy.          .yMMMMMMMN`                                     oMMMMMMMMMMMMMMMMMMMMMMMM.     
- :NMMMMMMMMy+-````-+hMMMMMMMMN:                                      oMMMMMMMMMMMMMMMMMMMMMMMM.     
-  -dMMMMMMMMMMMNNNMMMMMMMMMMd-                                       oMMMMMMMMMMMMMMMMMMMMMMMM.     
-   `+mMMMMMMMMMMMMMMMMMMMMm+`                                        oMMMMMMMMMNo++oNMMMMMMMMM.     
-     `/yNMMMMMMMMMMMMMMNy/`                                          oMMMMMMMMMm    oddddmMMMM.     
-        `-+yhdmmmmdhy+-`                                             oMMMMsoooo/     ````+MMMM.     
-             ``````                                                  :NMMh`              -mMMm`     
-                                                                      .:-`                .:-`      
-                                                                                                    
+          /mMms.                  /hNMh`          
+         `NMMMMMs`              -dMMMMMs          
+         -MMMMMMMm.            oNMMMMMMh          
+         .MMMMMMMMN-          sMMMMMMMMy          
+          mMMMMMMMMm.        oMMMMMMMMM/          
+          +MMMMMMMMMd       :NMMMMMMMMm`          
+          `dMMMMMMMMM+      mMMMMMMMMM+           
+           -NMMMMMMMMm     /MMMMMMMMMy            
+            /NMMMMMMMM:    hMMMMMMMMd`            
+             /NMMMMMMMy+o++NMMMMMMMh.             
+              :mMMMMMMMMMMMMMMMMMMy`              
+             `/mMMMMMMMMMMMMMMMMMMy.              
+            .hMMMMMMMMMMMMMMMMMMMMMN+             
+           `dMMmmmNMMMMMMMMMMMNNmmNMMo            
+           sMMdssssydMMMMMMMNhsssssNMM.           
+           mMMNhsssssdMMMMMMssssssdMMM/           
+           dMMMMNmdhdNMMMMMMmdhdmMMMMM:           
+           /MMMMMMMMMMMMMMMMMMMMMMMMMm            
+            oMMMMMMMMMMMMMMMMMMMMMMMm.            
+             :mMMMMMMMMMMMMMMMMMMMMy`             
+               /hNMMMMMMMMMMMMMMms.               
+                 `:oydmNNNmmhs+-`                 
+                     ```````                      
  
-
-           ____       _     _     _ _                  _   _     _   _                 _ 
-          |  _ \ __ _| |__ | |__ (_) |_               / \ | |_  | | | | ___ _ __ ___  | |
-          | |_) / _` | '_ \| '_ \| | __|             / _ \| __| | |_| |/ _ \ '__/ _ \ | |
-          |  _ < (_| | |_) | |_) | | |_             / ___ \ |_  |  _  |  __/ | |  __/ |_|
-          |_| \_\__,_|_.__/|_.__/|_|\__|           /_/   \_\__| |_| |_|\___|_|  \___| (_)
+ ____       _     _     _ _     _   _                 _ 
+|  _ \ __ _| |__ | |__ (_) |_  | | | | ___ _ __ ___  | |
+| |_) / _` | '_ \| '_ \| | __| | |_| |/ _ \ '__/ _ \ | |
+|  _ < (_| | |_) | |_) | | |_  |  _  |  __/ | |  __/ |_|
+|_| \_\__,_|_.__/|_.__/|_|\__| |_| |_|\___|_|  \___| (_)
+                                                        
                                                                      
 - - - 

@@ -1,12 +1,5 @@
 ## Welcome to This Pages !
 
-Hi This's Belix . I am an Amateur's IT Engineer ,Currently specializing in automation now.
-I have  more interesting things on different field ! Not only on automation !I have Network cabinet at home for my test lab.
-
-About other field of workI like to try more test on my Car !
-
-This blog is used to record my learning journey. If you have relevant information, you can also let me know.
-
 You can use the [editor on GitHub](https://github.com/rianbelix/rianbelix.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

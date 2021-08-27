@@ -11,4 +11,76 @@ So !This blog is used to record my learning journey. If you have relevant inform
 
 - - -
 
+                     .smMNdy/`                                       `:sdNMmy-                      
+                    :mMMMMMMMNo.                                   `omMMMMMMMN/                     
+                    dMMMMMMMMMMNo`                               `+mMMMMMMMMMMm`                    
+                   :NMMMMMMMMMMMMd-                             -hMMMMMMMMMMMMM/                    
+                   +MMMMMMMMMMMMMMN+                           /mMMMMMMMMMMMMMMo                    
+                   +MMMMMMMMMMMMMMMMs`                        oNMMMMMMMMMMMMMMMo                    
+                   /MMMMMMMMMMMMMMMMMy`                     `sMMMMMMMMMMMMMMMMM+                    
+                   .NMMMMMMMMMMMMMMMMMy`                   `sMMMMMMMMMMMMMMMMMM:                    
+                    mMMMMMMMMMMMMMMMMMMs`                  oMMMMMMMMMMMMMMMMMMm`                    
+                    oMMMMMMMMMMMMMMMMMMM+                 /NMMMMMMMMMMMMMMMMMMs                     
+                    .mMMMMMMMMMMMMMMMMMMN:               -mMMMMMMMMMMMMMMMMMMN-                     
+                     sMMMMMMMMMMMMMMMMMMMm.             `dMMMMMMMMMMMMMMMMMMMy                      
+                     .mMMMMMMMMMMMMMMMMMMMs             +MMMMMMMMMMMMMMMMMMMN-                      
+                      +MMMMMMMMMMMMMMMMMMMN-           `NMMMMMMMMMMMMMMMMMMMo                       
+                      `yMMMMMMMMMMMMMMMMMMMy           oMMMMMMMMMMMMMMMMMMMh`                       
+                       `dMMMMMMMMMMMMMMMMMMM`         `mMMMMMMMMMMMMMMMMMMN.                        
+                        .NMMMMMMMMMMMMMMMMMM+         :MMMMMMMMMMMMMMMMMMN:                         
+                         :NMMMMMMMMMMMMMMMMMy         yMMMMMMMMMMMMMMMMMN/                          
+                          :NMMMMMMMMMMMMMMMMd`       `hMMMMMMMMMMMMMMMMN/                           
+                           -mMMMMMMMMMMMMMMMMmmmmNNmmmNMMMMMMMMMMMMMMMN:                            
+                            .hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd.                             
+                             `oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`                              
+                             `+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`                              
+                           `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo`                            
+                          -dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd:                           
+                         +NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo                          
+                        +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs                         
+                       :NMMMMNmhhhhdmNNMMMMMMMMMMMMMMMMMMMMMMNmdhhhhdNMMMMM/                        
+                      `dMMMMNyssssssssyhmMMMMMMMMMMMMMMMMMmdyssssssssymMMMMN.                       
+                      /MMMMMNsssssssssssshNMMMMMMMMMMMMMNhssssssssssssmMMMMMo                       
+                      yMMMMMMdssssssssssssyNMMMMMMMMMMMMyssssssssssssdMMMMMMh                       
+                      hMMMMMMMNhsssssssssssmMMMMMMMMMMMNssssssssssshmMMMMMMMh`                      
+                      yMMMMMMMMMNdhysssssydMMMMMMMMMMMMMdysssssyhdNMMMMMMMMMh                       
+                      /MMMMMMMMMMMMMNNNNNMMMMMMMMMMMMMMMMMNNNNNMMMMMMMMMMMMMo                       
+                      `mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.                       
+                       /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                        
+                        +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs                         
+                         +NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo                          
+                          :dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm:                           
+                           `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`                            
+                             `+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo`                              
+                               `:smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy:`                                
+                                  `-ohmMMMMMMMMMMMMMMMMMMMMMmho:`                                   
+                                      `.:+shhdmmmmmmmdhhs+:.`                                       
+          `-:/+oo+/:-`                      ````...````                                             
+      `:ohmNNMMMMMMNNmho:`                                                                          
+    .+dNMMMMMMMMMMMMMMMMNd+.                                                                        
+  `/mMMMMMMMMMMMMMMMMMMMMMMm/`                                                                      
+ `sNMMMMMMMNdhsooshdNMMMMMMMNs`                                                                     
+ yMMMMMMMNs-`      `-sNMMMMMMMy                                                                     
+/MMMMMMMd-            -dMMMMMMM+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-.`  
+hMMMMMMN-              -NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd: 
+NMMMMMMh`               hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm 
+mMMMMMMd`              `dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh 
+sMMMMMMMo              oMMMMMMMmhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhmMMMMMMMMMMMMMMMMMMMMMMMMhhs/` 
+.NMMMMMMMy.          .yMMMMMMMN`                                     oMMMMMMMMMMMMMMMMMMMMMMMM.     
+ :NMMMMMMMMy+-````-+hMMMMMMMMN:                                      oMMMMMMMMMMMMMMMMMMMMMMMM.     
+  -dMMMMMMMMMMMNNNMMMMMMMMMMd-                                       oMMMMMMMMMMMMMMMMMMMMMMMM.     
+   `+mMMMMMMMMMMMMMMMMMMMMm+`                                        oMMMMMMMMMNo++oNMMMMMMMMM.     
+     `/yNMMMMMMMMMMMMMMNy/`                                          oMMMMMMMMMm    oddddmMMMM.     
+        `-+yhdmmmmdhy+-`                                             oMMMMsoooo/     ````+MMMM.     
+             ``````                                                  :NMMh`              -mMMm`     
+                                                                      .:-`                .:-`      
+                                                                                                    
+ 
 
+           ____       _     _     _ _                  _   _     _   _                 _ 
+          |  _ \ __ _| |__ | |__ (_) |_               / \ | |_  | | | | ___ _ __ ___  | |
+          | |_) / _` | '_ \| '_ \| | __|             / _ \| __| | |_| |/ _ \ '__/ _ \ | |
+          |  _ < (_| | |_) | |_) | | |_             / ___ \ |_  |  _  |  __/ | |  __/ |_|
+          |_| \_\__,_|_.__/|_.__/|_|\__|           /_/   \_\__| |_| |_|\___|_|  \___| (_)
+                                                                     
+- - - 
